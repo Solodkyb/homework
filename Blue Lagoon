@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset ="UTF-8">
+		<title>Home work 1 Solodkiy</title>
+		<style>
+	   .center {
+		width: 637px; /* Ширина элемента в пикселах */
+		margin: auto; /* Выравниваем по центру */		
+		color:auto; /* цвет текста */
+		background-color:pink; /* цвет заднего фона */
+		}
+		</style>		
+	</head>
+	<body>
+		<div class="center">
+		
+		<h1 id="start">Solodkiy Bogdan. Home Work 1</h1>
+		<hr>	
+		<h2>Состав коктейля "Голубая Лагуна"</h2>
+		<h3>Blue Lagoon</h3>
+		<br>
+		<br>
+
+		<p> <img src="https://www.edim.tv/images/cocktails/637x385/blue-lagoon.jpg"></p>
+		
+		<a href="https://www.youtube.com/watch?v=X5cwX1ly0qY" target="_blank"><h3>Ссылка на видео YouTube</h3></a>				
+		
+		<br>
+		<p><b>Необходимые инградиенты: </b></p>
+		
+		<ul>
+			<li>Водка Finlandia 50г.</li>
+			<li>Ликер блю кюрасао 50г.</li>
+			<li>Спрайт 150г.</li>
+			<li>Ананас 30г.</li>
+			<li>Лёд в кубиках 200г.</li>			
+		</ul>
+		<br>
+		
+		<p><b>Рецепт Коктейля <em>"Голубая Лагуна":</em></b></p>
+		<ul>
+			<li>01. Наполни харрикейн кубиками льда до верху</li>
+			<li>02. Налей ликер блю корасао 20 мл. и водку 50мл.</li>
+			<li>03. Долей спрайт доверху и аккуратно размешай коктейльной ложкой</li>
+			<li>04. Укрась долькой ананаса</li>
+		</ul>
+		<br>
+		<h3>Описание коктейля :</h3>
+		
+		<p>Хотите попробовать "Голубую лагуну"? Это сладкий освежающий лонг на водке <br> с добавлением ликёра блю кюрасао, который придаёт коктейлю нежный голубой оттенок.
+		<br> Есть легенда, что "Голубую лагуну" придумал художник Поль Гоген на Таити,<br> но вряд ли он предложил бы добавлять в коктейль спрайт.</p>
+		<br>
+		<hr>
+		
+		<p>Источник : <br> <a href="https://ru.inshaker.com/cocktails/314-golubaya-laguna" target="_blank"> https://ru.inshaker.com/cocktails/314-golubaya-laguna </a></p>
+				
+		<p><a href="https://www.google.com/?hl=ru" target="_blank"><b>Google </b></a> страница поиска</p>		
+		<br>
+		<a href="#start"><h5>Вернуться в начало страници</h5></a>
+		
+		 </div>			
+	</body>		
+</html>
